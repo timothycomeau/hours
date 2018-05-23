@@ -28,6 +28,6 @@ Python 3
 
 ## Author
 
-* Timothy Comeau
+Timothy Comeau
 
 
